@@ -5,7 +5,7 @@ The talk is not publicly available yet but here are the slides and other materia
 
  * [Slides](BuriedTreasureMapFiles_slides_ewhite.pdf)
  * [Memory Map Land Image](MemoryMapLand.jpg)[ (or [at Inkarnate](https://inkarnate.com/m/QRENA5--memory-map-land/))
- * [Hello.map](Hello.map) and [Hello.cmd linker file](Hello.cmd) (TI processor)
+ * [Hello.map](hello.map) and [Hello.cmd linker file](hello.cmd) (TI processor)
  * [Map file for the BLE and Zigbee application](dmm_zc_switch_remote_display_oad_app_CC26X2R1_LAUNCHXL_tirtos_ccs.map) (TI processor)
  * [Map file for Circuit Python on the SEEDunio via GCC](circuit_python_seeduino_xaio_firmware.elf.map)
 
