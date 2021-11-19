@@ -1,5 +1,5 @@
 # MapFiles
-These are variations on my talk about how to use memory map files for embedded systems development and debugging.
+There are two variations on my talk about how to use memory map files for embedded systems development and debugging.
 
 **Memory Maps and Other Buried Treasures** is a talk about heaps, stacks, and memory maps (but definitely not linker files). It was a keynote talk at Hackaday Remoticon 2021. The video is coming soon but here are the [slides](MemoryMapsAndOtherBuriedTreasure_slides_ewhite.pdf). 
 
